@@ -1,7 +1,8 @@
 # eq_detector
 
 This library is an implementation of the method and baseline presented in "Spatio-Temporal Graph Structure Learning for Earthquake Detection," submitted to IJCNN 2025.
-## installation:
+
+## Installation
 ```
 # parent directory
 cd eq_detector
