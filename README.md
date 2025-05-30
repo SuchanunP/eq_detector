@@ -1,6 +1,6 @@
 # eq_detector
 
-This library is an implementation of the method and baseline presented in "Spatio-Temporal Graph Structure Learning for Earthquake Detection," submitted to IJCNN 2025.
+This library is an implementation of the method and baseline presented in the paper [*Spatio-Temporal Graph Structure Learning for Earthquake Detection*](https://arxiv.org/abs/2503.11215). The approach focuses on leveraging dynamic graph structures to improve the accuracy and robustness of earthquake detection from seismic waveform data.
 
 ## Installation
 ```
